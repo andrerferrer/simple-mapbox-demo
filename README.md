@@ -18,6 +18,8 @@ It'll be like this:
       MAPBOX_API_KEY=pk.eyJ1IjoiZXBlbXMiLCJhIjoiY2tpZzFob2FmMGZ1ZTJxczE0MGcwdGsxeCJ9.EsWnqWxeKm7EGNTbUxV-Cw
     ```
 
+run `webpack-dev-server` to start listening on localhost:8080.
+
 And you're good to go 🤓.
 
 ### [How to add the dotenv-webpack plugin ?](https://github.com/andrerferrer/quickTips/blob/master/Webpacker/config_dotenv.md)
