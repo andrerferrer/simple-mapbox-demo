@@ -12,7 +12,8 @@ st .env # Open this file in Sublime Text
 ```
 
 In this file, you should add the MAPBOX API KEY. [You can grab it here.](https://account.mapbox.com/)
-like this:
+
+It'll be like this:
     ```
       MAPBOX_API_KEY=pk.eyJ1IjoiZXBlbXMiLCJhIjoiY2tpZzFob2FmMGZ1ZTJxczE0MGcwdGsxeCJ9.EsWnqWxeKm7EGNTbUxV-Cw
     ```
